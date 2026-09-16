@@ -6,7 +6,7 @@
   MUST be released under GPL-3.0-or-later. No closed-source use.
 -->
 
-# Luma Router
+# Lumo Router
 
 Deterministic multi-modal creative AI routing system with formal specification in Lean 4 and executable implementation in MATLAB.
 
